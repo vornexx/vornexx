@@ -10,4 +10,6 @@ Random Moe Counters :
 
 ![:name](https://count.getloli.com/get/@vornex-gh?theme=gelbooru-h)
 
+![:name](https://count.getloli.com/get/@vornex-gh?theme=moebooru-h)
+
 ![:name](https://count.getloli.com/get/@vornex-gh?theme=rule34)

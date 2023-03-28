@@ -1,5 +1,5 @@
 Hi, I'm a 13 y/o repo stealer! 😃
 
-https://github.githubassets.com/images/mona-whisper.gif
+![image](https://user-images.githubusercontent.com/79860992/228379620-06114d27-1cb7-4fc0-afe7-2cfe6b1dfc8e.png)
 
-https://lanyard.cnrad.dev/api/704002391464214548
+![image](https://lanyard.cnrad.dev/api/704002391464214548)

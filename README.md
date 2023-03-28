@@ -4,6 +4,10 @@ Hi, I'm a 13 y/o repo stealer! 😃
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=tokyonight)
 
+Random Moe Counters :
+
 ![:name](https://count.getloli.com/get/@:vornex-gh?theme=gelbooru)
 
 ![:name](https://count.getloli.com/get/@vornex-gh?theme=gelbooru-h)
+
+![:name](https://count.getloli.com/get/@vornex-gh?theme=rule34)

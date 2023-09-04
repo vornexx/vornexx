@@ -1,4 +1,4 @@
-Hi, I'm a 13 y/o repo stealer! 😃
+Hi, I'm a 14(as of august 16th 2023) y/o repo stealer! 😃
 
 ![image](https://lanyard.cnrad.dev/api/704002391464214548)
 

@@ -5,3 +5,5 @@ Hi, I'm a 14 y/o(as of august 16th 2023) repo stealer! 😃
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight)](https://github.com/vornex-gh/vornex-gh)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?vornex-gh=ffflabs)](https://github.com/vornex-gh/vornex-gh)

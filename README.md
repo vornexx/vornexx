@@ -4,9 +4,7 @@
 <p align="center"><a href="https://discord.com/users/1149438819834269856"><img src="https://lanyard.cnrad.dev/api/1149438819834269856?bg=549654&amp;borderRadius=25px" alt="Discord Presence"></a></p>
 </body></html>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=tokyonight" alt="ghstats"></p>
 
-![image](https://lanyard.cnrad.dev/api/1149438819834269856)
+<p align="center"><img src="[https://skillicons.dev/icons?i=astro,css,html,js,md,ts,python&amp;perline=13](https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight)](https://github.com/vornex-gh/vornex-gh)" alt="TopLangs"></p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight)](https://github.com/vornex-gh/vornex-gh)

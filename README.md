@@ -6,5 +6,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=tokyonight" alt="ghstats"></p>
 
-<p align="center"><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight)" alt="TopLangs"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight" alt="TopLangs"></p>
 

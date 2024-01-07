@@ -10,5 +10,3 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&color=blueviolet" alt="ProfileView"></p>
 
-![Profile View](https://komarev.com/ghpvc/?username=vornexx-gh&color=blueviolet)
-

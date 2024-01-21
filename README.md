@@ -6,7 +6,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=synthwave" alt="ghstats"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=synthwave" alt="TopLangs"></p>
 
-<p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true&style=for-the-badge&color=pink" alt="DiscordProfileState"></p>
+<p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true&style=for-the-badge&color=2b213a" alt="DiscordProfileState"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=pink" alt="ProfilePlaying"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=pink" alt="ProfileSpotify"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=pink" alt="ProfileVSC"></p>

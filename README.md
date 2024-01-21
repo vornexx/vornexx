@@ -3,6 +3,9 @@
 <h2 align="center" id="stats">Stats</h2>
 <p align="center"><a href="https://discord.com/users/1149438819834269856"><img src="https://lanyard.cnrad.dev/api/1149438819834269856?bg=0d1117&amp;borderRadius=25px" alt="Discord Presence"></a></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=tokyonight" alt="ghstats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight" alt="TopLangs"></p>
+
 <p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true" alt="ProfileState"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856" alt="ProfilePlaying"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856" alt="ProfileSpotify"></p>

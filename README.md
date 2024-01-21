@@ -10,6 +10,6 @@
 <p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge" alt="ProfilePlaying"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge" alt="ProfileSpotify"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge" alt="ProfileVSC"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&color=blueviolet?simple=true&style=for-the-badge" alt="ProfileViews"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&color=blue" alt="ProfileViews"></p>
 
 </body></html>

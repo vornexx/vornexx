@@ -3,8 +3,8 @@
 <h2 align="center" id="stats">Stats</h2>
 <p align="center"><a href="https://discord.com/users/1149438819834269856"><img src="https://lanyard.cnrad.dev/api/1149438819834269856?bg=0d1117&amp;borderRadius=25px" alt="Lanyard Presence"></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=pink" alt="ghstats"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight" alt="TopLangs"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=synthwave" alt="ghstats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=synthwave" alt="TopLangs"></p>
 
 <p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true&style=for-the-badge&color=pink" alt="DiscordProfileState"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=pink" alt="ProfilePlaying"></p>

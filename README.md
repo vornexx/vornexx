@@ -8,8 +8,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=tokyonight" alt="TopLangs"></p>
 
-<p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true" alt="ProfileState"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856" alt="ProfilePlaying"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856" alt="ProfileSpotify"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856" alt="ProfileVSC"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&color=blueviolet" alt="ProfileViews"></p>
+<p align="right"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true" alt="ProfileState"></p>
+<p align="right"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856" alt="ProfilePlaying"></p>
+<p align="right"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856" alt="ProfileSpotify"></p>
+<p align="right"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856" alt="ProfileVSC"></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&color=blueviolet" alt="ProfileViews"></p>

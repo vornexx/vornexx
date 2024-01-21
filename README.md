@@ -3,7 +3,6 @@
 <h2 align="center" id="stats">Stats</h2>
 <p align="center"><a href="https://discord.com/users/1149438819834269856"><img src="https://lanyard.cnrad.dev/api/1149438819834269856?bg=2b213a&amp;borderRadius=25px" alt="Lanyard Presence"></a></p>
 
-  <h1><br>align="center" My Github Statistics 💻<br></h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=synthwave" alt="ghstats"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=synthwave" alt="TopLangs"></p>
 

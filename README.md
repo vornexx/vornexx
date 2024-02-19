@@ -6,10 +6,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornex-gh&theme=synthwave" alt="ghstats"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornex-gh&layout=donut&theme=synthwave" alt="TopLangs"></p>
 
-<p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true&style=for-the-badge&color=2b213a" alt="DiscordProfileState"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=2b213a" alt="ProfilePlaying"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=2b213a" alt="ProfileSpotify"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=2b213a" alt="ProfileVSC"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vornex-gh&style=flat-square&color=2b213a" alt="ProfileViews" alt="ghprofileviews"></p>
+<p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true&style=for-the-badge&color=171212" alt="DiscordProfileState"></p>
+<p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=171212" alt="ProfilePlaying"></p>
+<p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=171212" alt="ProfileSpotify"></p>
+<p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=171212" alt="ProfileVSC"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vornex-gh&style=flat-square&color=171212" alt="ProfileViews" alt="ghprofileviews"></p>
 
 </body></html>

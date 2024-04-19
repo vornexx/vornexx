@@ -12,7 +12,7 @@
 <p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="ProfilePlaying"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="ProfileSpotify"></p>
 <p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="ProfileVSC"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vornex-gh&style=flat-square&color=141321" alt="ProfileViews" alt="ghprofileviews"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&style=flat-square&color=141321" alt="ProfileViews" alt="ghprofileviews"></p>
 
 </body>
 </html>

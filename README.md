@@ -5,8 +5,6 @@
 <h2 align="center" id="stats">My stats! 💻</h2>
 <p align="center"><a href="https://discord.com/users/1149438819834269856"><img src="https://lanyard.cnrad.dev/api/1149438819834269856?bg=transperent&borderRadius=unset&animated=true&idleMessage=Not%20doing%20anything%20right%20now!" alt="Lanyard Presence"></a></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bj9xmj4pmlqa86zym011zb1eb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=315896&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bj9xmj4pmlqa86zym011zb1eb&redirect=true)
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vornexx&theme=radical&hide_border=true" alt="ghstats"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vornexx&layout=donut&theme=radical&hide_border=true" alt="TopLangs"></p>
 

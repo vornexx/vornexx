@@ -14,7 +14,7 @@
 </a>
 <br />
 <a href='#'>
-  <img alt='lanyard' width="380" height="190" src='https://lanyard.cnrad.dev/api/1149438819834269856' />
+  <img alt='lanyard' width="380" height="190" src='https://lanyard.cnrad.dev/api/1149438819834269856?bg=0d1117' />
 </a>
 <br />
 </ul>

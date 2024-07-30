@@ -1,16 +1,22 @@
-<html>
-<head>
-<body><h1 align="center" id="welcome!">hello.<br></h1> 
-<h3 align="center" id="Short little description :)">In my free time I just play <a href="https://www.roblox.com/users/1016710675">roblox</a>, watch youtube or tiktok or something.<br>My website: <a href="https://vornexx.is-a.dev">vornexx.is-a.dev</a></h3>
-<h2 align="center" id="stats">My stats! 💻</h2>
-<p align="center"><a href="https://discord.com/users/1149438819834269856"><img src="https://lanyard.cnrad.dev/api/1149438819834269856?bg=transperent&borderRadius=unset&animated=true&idleMessage=Not%20doing%20anything%20right%20now!" alt="Lanyard Presence"></a></p>
+<h3><b>Hello. 👋</b></h3>
+<h4>proud hater of myself that just happens to like tech and games.</h4>
+<br />
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kuuuuuuuu/Kuuuuuuuu/main/imgs/bocchi.png" />
 
-
-<p align="center"><img src="https://api.statusbadges.me/badge/status/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="DiscordProfileState"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="ProfilePlaying"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="ProfileSpotify"></p>
-<p align="center"><img src="https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=141321" alt="ProfileVSC"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vornexx-gh&style=flat-square&color=141321" alt="ProfileViews" alt="ghprofileviews"></p>
-
-</body>
-</html>
+<div align="left">
+  <h5>🌸 Discord: <a href='https://discord.com/users/1149438819834269856'>@7aub</a></h5>
+  <h5>🎀 Email: <a href='mailto:vornexx@fsb.lol'>vornexx@fsb.lol</a></h5>
+  <h5>🌷 Website: <a href='https://vornexx.is-a.dev'>https://vornexx.is-a.dev</a></h5>
+</div>
+<br />
+<hr />
+<a href='#'>
+</a>
+<br />
+<br />
+<br />
+<a href='#'>
+  <img alt='lanyard' width="380" height="190" src='https://lanyard.cnrad.dev/api/1149438819834269856' />
+</a>
+<br />
+</ul>

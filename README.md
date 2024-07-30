@@ -1,5 +1,5 @@
 <h3><b>hello.</b></h3>
-<h4>proud hater of myself that just happens to like tech and games.</h4>
+<h4>im a proud hater of myself that just happens to like tech and games.</h4>
 <br />
 <img align="left" height="150" src="/bocchi.png" />
 

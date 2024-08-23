@@ -5,6 +5,7 @@
 
 <div align="left">
   <h5> Website: <a href='https://vornexx.is-a.dev'>vornexx.is-a.dev</a></h5>
+  <h5> Website(simple): <a href='https://vnx.pages.dev'>vnx.pages.dev</a></h5>
   <h5> Discord: <a href='https://discord.com/users/1149438819834269856'>@7aub</a></h5>
   <h5> Email: <a href='mailto:vornexx@fsb.lol'>vornexx@fsb.lol</a></h5>
 </div>

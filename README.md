@@ -1,5 +1,5 @@
 <h3><b>hello.</b></h3>
-<h4>im a proud hater of myself that just happens to like tech and games.</h4>
+<h4>tech!!!!!!!!!!</h4>
 
 <div align="left">
   <h5> Website: <a href='https://vornexx.is-a.dev'>vornexx.is-a.dev</a></h5>

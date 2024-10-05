@@ -9,13 +9,7 @@
   <h5> Discord: <a href='https://discord.com/users/1149438819834269856'>@7aub</a></h5>
   <h5> Email: <a href='mailto:vornexx@fsb.lol'>vornexx@fsb.lol</a></h5>
 </div>
+<h4>i my precious girlfriend(wifeee.❤️❤️❤️💍💍) sosososososososo muchh. more than anyone and anything else ever. for eternity.</h4>
 <br />
 <hr />
-<a href='#'>
-</a>
-<br />
-<a href='#'>
-  <img alt='lanyard' width="380" height="190" src='https://lanyard.cnrad.dev/api/1149438819834269856?bg=0d1117' />
-</a>
-<br />
 </ul>

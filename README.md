@@ -1,3 +1,4 @@
+
 <h3><b>hello.</b></h3>
 <h4>tech!!!!!!!!!!</h4>
 
@@ -8,4 +9,4 @@
   <h5> Email: <a href='mailto:vornexx@fsb.lol'>vornexx@fsb.lol</a></h5>
 </div>
 <h2>i love my precious girlfriend(my wifeee.❤️❤️❤️💍💍) sosososososososo muchh. more than anyone and anything else ever. for eternity.</h2>
-</ul>
+

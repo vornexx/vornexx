@@ -3,7 +3,7 @@
   <h3> In my free time I play Genshin Impact or Roblox and watch some movies, shows!<br></h3>
   <h3>💻 Stuff that I use(sometimes):</h3>
   <a href="https://skillicons.dev">
-    <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,astro,css,js,ts,md&perline=13">
+    <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,astro,js,ts,md&perline=13">
   </a>
   <h3>🧑‍💻 Other stuff</h3>
   <a href="https://skillicons.dev">

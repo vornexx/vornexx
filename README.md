@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 💫 About Me: </h1>
-  <p> In free time I play Genshin Impact or Roblox and watch some movies, shows!<br></p>
+  <h3> In my free time I play Genshin Impact or Roblox and watch some movies, shows!<br></h3>
   <h3>🔥 Stuff that I use(sometimes):</h3>
   <a href="https://skillicons.dev">
     <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,astro,css,js,ts,md&perline=13">

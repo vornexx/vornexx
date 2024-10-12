@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 💫 About Me: </h1>
+  <h1> 😺 About Me: </h1>
   <h3> In my free time I play Genshin Impact or Roblox and watch some movies, shows!<br></h3>
   <h3>💻 Stuff that I use(sometimes):</h3>
   <a href="https://skillicons.dev">

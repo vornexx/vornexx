@@ -12,7 +12,7 @@ In my free time I play Genshin Impact or Roblox and watch some movies, shows!
 
 
 <p align="left">
-<img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,astro,css,js,ts,md&perline=13">
+<img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,ts,astro,md&perline=13">
 </p>
 
 ### Badges

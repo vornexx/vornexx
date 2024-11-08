@@ -1,7 +1,7 @@
  Hello my name is vornexx! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)😸
 ===============================================================================================================================
 
-In my free time I play Genshin Impact or Roblox and watch some movies, shows! 
+In my free time I play Genshin Impact, Roblox, or watch movies and shows! 
 ## **I LOVEE MY GIRLFRIEND(MY WIFEEE FOR ETERNITY.❤️❤️❤️❤️❤️❤️💍💍) SOSOSOSOSOOSOSSOSO FREAKING MUCHH, MORE THAN ANYTHING ELSE AND ANYONE, FOR ETERNITY.**
 
 * 🌍  I'm based in Trinidad & Tobago (Trinidad)

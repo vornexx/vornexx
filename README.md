@@ -5,8 +5,8 @@ In my free time I play Genshin Impact or Roblox and watch some movies, shows!
 ## **I LOVEE MY GIRLFRIEND(MY WIFEEE FOR ETERNITY.❤️❤️❤️❤️❤️❤️💍💍) SOSOSOSOSOOSOSSOSO FREAKING MUCHH, MORE THAN ANYTHING ELSE AND ANYONE, FOR ETERNITY.**
 
 * 🌍  I'm based in Trinidad & Tobago (Trinidad)
-* 🖥️  See my portfolio at [vnx.pages.dev](http://vnx.pages.dev)
-* ✉️  You can contact me at [vornexx@fsb.lol](mailto:vornexx@fsb.lol)
+* 🖥️  See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev)
+* ✉️  You can contact me at [vornexx@fsb.lol](mailto:vornexx@fsb.lol)(rarely checked)
 
 ### Skills
 

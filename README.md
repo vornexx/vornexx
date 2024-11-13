@@ -2,7 +2,7 @@
 ===============================================================================================================================
 
 *In my free time I play Genshin Impact, Roblox, or watch movies and shows!*
-##### ***I LOVEE MY GIRLFRIEND(MY WIFEEE FOR ETERNITY.❤️❤️❤️❤️❤️❤️💍💍) SOSOSOSOSOOSOSSOSO FREAKING MUCHH, MORE THAN ANYTHING ELSE AND ANYONE, FOR ETERNITY.***
+### ***I LOVEE MY GIRLFRIEND(MY WIFEEE FOR ETERNITY.❤️❤️❤️❤️❤️❤️💍💍) SOSOSOSOSOOSOSSOSO FREAKING MUCHH, MORE THAN ANYTHING ELSE AND ANYONE, FOR ETERNITY.***
 
 - ![tt](download-resizehood.com.png)  *I'm based in Trinidad & Tobago (Trinidad)*
 - 🖥️  *See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev)*

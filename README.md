@@ -8,7 +8,7 @@ In my free time I play Genshin Impact, Roblox, or watch movies and shows!
 * 🖥️  See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev)
 * ✉️  You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked)
 
-### Skills
+### I work with
 
 
 <p align="left">

@@ -6,7 +6,7 @@ In my free time I play Genshin Impact, Roblox, or watch movies and shows!
 
 * 🌍  I'm based in Trinidad & Tobago (Trinidad)
 * 🖥️  See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev)
-* ✉️  You can contact me at [vornexx@tuta.io](mailto:vornexx@tuta.io)(rarely checked)
+* ✉️  You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked)
 
 ### Skills
 

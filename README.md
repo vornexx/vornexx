@@ -1,4 +1,4 @@
- Hello my name is vornexx! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)🐱
+ *Hello my name is vornexx! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)🐱*
 ===============================================================================================================================
 
 *In my free time I play Genshin Impact, Roblox, or watch movies and shows!*
@@ -8,14 +8,14 @@
 * 🖥️  *See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev)*
 * 📨  *You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked)*
 
-### I work with 💻
+### *I work with 💻*
 
 
 <p align="left">
 <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,ts,astro,md&perline=13">
 </p>
 
-### Badges ⚓
+### *Badges ⚓*
 
 <b>*My GitHub Stats*</b>
 

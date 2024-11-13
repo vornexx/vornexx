@@ -19,4 +19,4 @@ In my free time I play Genshin Impact, Roblox, or watch movies and shows!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vornexx"><img src="https://github-readme-stats.vercel.app/api?username=vornexx&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="vornexx's GitHub stats" /></a>
+<a href="http://www.github.com/vornexx"><img src="https://github-readme-stats.vercel.app/api?username=vornexx&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="vornexx's GitHub stats" /></a>

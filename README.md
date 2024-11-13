@@ -6,16 +6,16 @@ In my free time I play Genshin Impact, Roblox, or watch movies and shows!
 
 * ![tt](download-resizehood.com.png)  I'm based in Trinidad & Tobago (Trinidad)
 * 🖥️  See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev)
-* ✉️  You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked)
+* 📨  You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked)
 
-### I work with
+### I work with 💻
 
 
 <p align="left">
 <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,ts,astro,md&perline=13">
 </p>
 
-### Badges
+### Badges ⚓
 
 <b>My GitHub Stats</b>
 

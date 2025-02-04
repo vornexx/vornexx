@@ -1,4 +1,4 @@
- *hello my name is vornexx.*
+ *vornexx.*
 ===============================================================================================================================
 
 #### - ![tt](download-resizehood.com.png)  *I'm based in Trinidad & Tobago (Trinidad).*

@@ -3,7 +3,7 @@
 
 why cant gh just up their pfp file size limit
 
-#### - ![tt](download-resizehood.com.png)  *I'm based in Trinidad & Tobago (Trinidad).*
+#### - ![tt](download-resizehood.com.png)  *I'm from in Trinidad & Tobago (Trinidad).*
 #### - 🖥️  *See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev), [e-z.bio/vornexx](https://e-z.bio/vornexx)*
 #### - 📨  *You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked).*
 

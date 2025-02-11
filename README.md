@@ -1,7 +1,7 @@
  *vornexx.*
 ===============================================================================================================================
 
-why cant gh just up their pfp quality
+why cant gh just up their pfp file size limit
 
 #### - ![tt](download-resizehood.com.png)  *I'm based in Trinidad & Tobago (Trinidad).*
 #### - 🖥️  *See my site(and see my spotify music data) at [vnx.pages.dev](http://vnx.pages.dev), [e-z.bio/vornexx](https://e-z.bio/vornexx)*

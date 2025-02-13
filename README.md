@@ -7,12 +7,14 @@ why cant gh just up their pfp file size limit
 #### - 🖥️  *See my site(and see my spotify music data) at [my site](http://vornexx.is-a.dev), [e-z.bio/vornexx](https://e-z.bio/vornexx)*
 #### - 📨  *You can contact me at [vornexx@outlook.com](mailto:vornexx@outlook.com)(rarely checked).*
 
-### *I work with 💻* (i dont actually know how to write them from scratch 😭)
+### *I work with 💻* 
 
 
 <p align="left">
 <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,ts,astro,md&perline=13">
 </p>
+(i dont actually know how to write them from scratch 😭)
+
 
 ### *Badges ⚓*
 

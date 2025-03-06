@@ -14,7 +14,7 @@ mrow
 <p align="left">
 <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,ts,astro,md&perline=13">
 </p>
-(i dont actually know how to write them from scratch 😭)
+(i dont actually know how to write them from scratch, but i can edit/modify 😭)
 
 
 ### *Badges ⚓*

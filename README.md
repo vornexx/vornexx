@@ -6,7 +6,7 @@ mrow
 #### - ![tt](download-resizehood.com.png)  *I'm from in Trinidad & Tobago (Trinidad).*
 #### - `🌐`  *See my site(and see my spotify music data) at [my site](http://vornexx.is-a.dev), [e-z.bio/vornexx](https://e-z.bio/vornexx)*
 #### - `✉️`  *You can contact me at [vornexx@disroot.org](mailto:vornexx@disroot.org)(rarely checked).*
-#### - `💻`  *My main devices I use is an *Acer Swift 3* (SF314-512T-56CT [i5-1240P]) for my laptop and a *Google Pixel 7a (lynx)* for my phone.*
+#### - `💻`  *My main devices I use is an *Acer Swift 3* (SF314-512T-56CT [i5-1240P]) for my laptop and// a *Google Pixel 7a (lynx)* for my phone.*
 
 ### *I work with 💻* 
 
